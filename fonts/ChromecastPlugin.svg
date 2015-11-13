@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="ChromecastPlugin" horiz-adv-x="48">
+    <font-face font-family="ChromecastPlugin"
+      units-per-em="48" ascent="48"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="chromecast-icon"
+      unicode="&#xF101;"
+      horiz-adv-x="48" d=" M42 42H6C3.79 42 2 40.21 2 38V32H6V38H42V10H28V6H42C44.21 6 46 7.79 46 10V38C46 40.21 44.21 42 42 42zM2 12V6H8C8 9.31 5.31 12 2 12zM2 20V16C7.52 16 12 11.52 12 6H16C16 13.73 9.73 20 2 20zM2 28V24C11.94 24 20 15.94 20 6H24C24 18.15 14.15 28 2 28z" />
+    <glyph glyph-name="chromecast-connected-icon"
+      unicode="&#xF102;"
+      horiz-adv-x="48" d=" M2 12V6H8C8 9.31 5.31 12 2 12zM2 20V16C7.52 16 12 11.52 12 6H16C16 13.73 9.73 20 2 20zM38 34H10V30.73C17.92 28.17 24.17 21.92 26.73 14H38V34zM2 28V24C11.94 24 20 15.94 20 6H24C24 18.15 14.15 28 2 28zM42 42H6C3.79 42 2 40.21 2 38V32H6V38H42V10H28V6H42C44.21 6 46 7.79 46 10V38C46 40.21 44.21 42 42 42z" />
+  </font>
+</defs>
+</svg>
