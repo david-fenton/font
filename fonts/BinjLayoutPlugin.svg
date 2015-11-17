@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="BinjLayoutPlugin" horiz-adv-x="48">
+    <font-face font-family="BinjLayoutPlugin"
+      units-per-em="48" ascent="48"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="air-play"
+      unicode="&#xF101;"
+      horiz-adv-x="48" d=" M0 48H48V0H0V48z M0 48H48V0H0V48z M42 42H6C3.8 42 2 40.2 2 38V14C2 11.8 3.8 10 6 10H14V14H6V38H42V14H34V10H42C44.2 10 46 11.8 46 14V38C46 40.2 44.2 42 42 42zM12 4H36L24 16z" />
+    <glyph glyph-name="chromecast"
+      unicode="&#xF102;"
+      horiz-adv-x="48" d=" M42 42H6C3.79 42 2 40.21 2 38V32H6V38H42V10H28V6H42C44.21 6 46 7.79 46 10V38C46 40.21 44.21 42 42 42zM2 12V6H8C8 9.31 5.31 12 2 12zM2 20V16C7.52 16 12 11.52 12 6H16C16 13.73 9.73 20 2 20zM2 28V24C11.94 24 20 15.94 20 6H24C24 18.15 14.15 28 2 28z" />
+    <glyph glyph-name="chromecast-connected"
+      unicode="&#xF103;"
+      horiz-adv-x="48" d=" M2 12V6H8C8 9.31 5.31 12 2 12zM2 20V16C7.52 16 12 11.52 12 6H16C16 13.73 9.73 20 2 20zM38 34H10V30.73C17.92 28.17 24.17 21.92 26.73 14H38V34zM2 28V24C11.94 24 20 15.94 20 6H24C24 18.15 14.15 28 2 28zM42 42H6C3.79 42 2 40.21 2 38V32H6V38H42V10H28V6H42C44.21 6 46 7.79 46 10V38C46 40.21 44.21 42 42 42z" />
+    <glyph glyph-name="overflow"
+      unicode="&#xF104;"
+      horiz-adv-x="48" d=" M24 32C26.21 32 28 33.79 28 36S26.21 40 24 40S20 38.21 20 36S21.79 32 24 32zM24 28C21.79 28 20 26.21 20 24S21.79 20 24 20S28 21.79 28 24S26.21 28 24 28zM24 16C21.79 16 20 14.21 20 12S21.79 8 24 8S28 9.79 28 12S26.21 16 24 16z" />
+    <glyph glyph-name="exit"
+      unicode="&#xF105;"
+      horiz-adv-x="48" d=" M33.17 30.83L24 21.66L14.83 30.83L12 28L24 16L36 28z" />
+    <glyph glyph-name="previous"
+      unicode="&#xF106;"
+      horiz-adv-x="48" d=" M12 36H16V12H12zM19 24L36 12V36z" />
+    <glyph glyph-name="next"
+      unicode="&#xF107;"
+      horiz-adv-x="48" d=" M12 12L29 24L12 36V12zM32 36V12H36V36H32z" />
+  </font>
+</defs>
+</svg>
