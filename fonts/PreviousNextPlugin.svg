@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="PreviousNextPlugin" horiz-adv-x="64">
+    <font-face font-family="PreviousNextPlugin"
+      units-per-em="64" ascent="64"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="previous-icon"
+      unicode="&#xF101;"
+      horiz-adv-x="64" d=" M16 8V56H24V34L44 54V10L24 30V8z" />
+    <glyph glyph-name="next-icon"
+      unicode="&#xF102;"
+      horiz-adv-x="64" d=" M48 56V8H40V30L20 10V54L40 34V56z" />
+  </font>
+</defs>
+</svg>

@@ -1,11 +1,11 @@
 {
-  "font-name": "ChromecastPlugin",
-  "root-dir": "./node_modules/material-design-icons/",
+  "font-name": "PreviousNextPlugin",
+  "root-dir": "./custom-icons/icomoon/",
   "icons": [{
-    "name": "chromecast-icon",
-    "svg": "hardware/svg/production/ic_cast_48px.svg"
+    "name": "previous-icon",
+    "svg": "previous.svg"
   }, {
-    "name": "chromecast-connected-icon",
-    "svg": "hardware/svg/production/ic_cast_connected_48px.svg"
+    "name": "next-icon",
+    "svg": "next.svg"
   }]
 }
