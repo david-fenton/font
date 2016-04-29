@@ -22,5 +22,8 @@
   }, {
     "name": "next",
     "svg": "av/svg/production/ic_skip_next_48px.svg"
+  }, {
+    "name": "replay-ten",
+    "svg": "av/svg/production/ic_replay_10_48px.svg"
   }]
 }
